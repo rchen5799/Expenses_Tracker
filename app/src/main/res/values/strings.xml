@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Midterm_Expenses</string>
+    <string name="vwallet">VWallet</string>
+    <string name="add_expenses_income">Add Expenses/Income</string>
+    <string name="save">Save</string>
+    <string name="expenses">Expenses</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="_0">0</string>
+    <string name="income">Income</string>
+    <string name="amount">Amount</string>
+    <string name="summary">Summary</string>
+    <string name="balance">Balance:</string>
+    <string name="delete_all">Delete All</string>
+    <string name="please_enter_your_pin">Please Enter Your PIN</string>
+    <string name="badhint">definately not 1234 ;)</string>
+    <string name="login">Login</string>
+    <string name="income_expenses">Income/Expenses</string>
+    <string name="income2">Income:</string>
+    <string name="expenses2">Expenses</string>
+</resources>
